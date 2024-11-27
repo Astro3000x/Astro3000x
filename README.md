@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Astro3000x
 - 👀 I’m interested in coding a programming language.
-- 🌱 I’m currently learning Nix.
+- 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on any fun projects like web games or cool tools.
-- 📫 Reach me on Discord. ```@Astro3000#0973```
+- 📫 Reach me on Discord. ```@Astro3000```
 - 🎉 [My Site](https://astro3000.dev)
 
 [![Astro3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=astro3000x&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
